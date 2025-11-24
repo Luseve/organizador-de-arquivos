@@ -11,11 +11,5 @@ Este script organiza automaticamente os arquivos de uma pasta, movendo cada arqu
 - Move os arquivos de forma organizada
 - Código limpo e direto
 
----
 
-## 🛠️ Como usar
-
-1. Altere o caminho da variável `pasta_alvo` no código:
-```python
-pasta_alvo = 'C:/Users/SeuUsuario/Downloads'
 
