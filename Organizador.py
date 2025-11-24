@@ -1,6 +1,6 @@
 import os
 import shutil
-from pathlib import Path  # <- assim
+from pathlib import Path  
 
 # Caminho da pasta que você quer organizar
 # Aqui ele pega automaticamente a pasta Downloads do usuário atual
@@ -38,3 +38,4 @@ for arquivo in os.listdir(pasta_alvo):
             shutil.move(caminho_arquivo, destino)
 
 print(f"Organização concluída em: {pasta_alvo}")
+
