@@ -12,4 +12,14 @@ Este script organiza automaticamente os arquivos de uma pasta, movendo cada arqu
 - Código limpo e direto
 
 
+## 🛠️ Requisitos
+
+Para usar este organizador, você precisa de:
+
+- 💻 Sistema operacional **Windows 10 ou 11**
+- 🐍 **Python 3.10+** instalado  
+  > Você pode baixar em: https://www.python.org/downloads/
+
+
+
 
